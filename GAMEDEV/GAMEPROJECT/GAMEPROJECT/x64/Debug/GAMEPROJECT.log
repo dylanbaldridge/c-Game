@@ -1,0 +1,9 @@
+﻿  GAMEPROJECT.cpp
+C:\Users\Dylan\OneDrive\Desktop\GAMEDEV\GAMEPROJECT\GAMEPROJECT\GAMEPROJECT.cpp(132,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dylan\OneDrive\Desktop\GAMEDEV\GAMEPROJECT\GAMEPROJECT\GAMEPROJECT.cpp(180,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dylan\OneDrive\Desktop\GAMEDEV\GAMEPROJECT\GAMEPROJECT\GAMEPROJECT.cpp(188,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dylan\OneDrive\Desktop\GAMEDEV\GAMEPROJECT\GAMEPROJECT\GAMEPROJECT.cpp(199,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dylan\OneDrive\Desktop\GAMEDEV\GAMEPROJECT\GAMEPROJECT\GAMEPROJECT.cpp(208,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dylan\OneDrive\Desktop\GAMEDEV\GAMEPROJECT\GAMEPROJECT\GAMEPROJECT.cpp(218,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dylan\OneDrive\Desktop\GAMEDEV\GAMEPROJECT\GAMEPROJECT\GAMEPROJECT.cpp(226,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GAMEPROJECT.vcxproj -> C:\Users\Dylan\OneDrive\Desktop\GAMEDEV\GAMEPROJECT\x64\Debug\GAMEPROJECT.exe
